@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Image1">
+    <file>Aboutme.jpg</file>
+    <file>Amblem.jpg</file>
+  </qresource>
+</RCC>
