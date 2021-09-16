@@ -7,6 +7,6 @@ Date: 18/12/2019
 
 
 
-
+![alt text](https://github.com/MAli-Yildirim/Sort-Algorithm-Visualization/blob/main/UI.png?raw=true)
 
 
